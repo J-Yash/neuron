@@ -1,13 +1,11 @@
 ---
 layout: page
-title: About Me
+title: About Neuron
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+**Neuron** is an educational blog aimed at explaining concepts in artificial intelligence, computer vision, deep learning, and autonomous vehicles. It also aims at providing *how-to* guides of the things I build.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+**Creator:** Yashvardhan Jain @ [Github](https://github.com/j-yash)
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+**Contact:** You can e-mail me at **yashvrdnjain@gmail.com**.
