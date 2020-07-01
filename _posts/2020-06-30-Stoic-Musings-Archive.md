@@ -7,6 +7,7 @@ comments: false
 hide: false
 search_exclude: true
 badges: false
+image: images/stoic-musings-archive.jpg
 categories: [Stoicism, Non-Technical]
 description: Archive for the Stoic Musings challenge articles.
 title: Stoic Musings Archive
