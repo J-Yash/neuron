@@ -12,6 +12,8 @@ categories: [Stoicism, Non-Technical]
 description: Archive for the Stoic Musings challenge articles.
 title: Stoic Musings Archive
 ---
+![]({{ site.baseurl }}/images/stoic-musings-archive.jpg "Image Credit: Dariusz Sankowski from Unsplash")
+
 This is the archive for my Stoic Musings challenge, inspired by the book "The Daily Stoic" by Ryan Holiday and Stephen Hanselman, where I take a quote from the book and reflect on it, every day.
 
 1. July 1, 2020 - ()[]
