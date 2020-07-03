@@ -16,4 +16,5 @@ title: Stoic Musings Archive
 
 This is the archive for my Stoic Musings challenge, inspired by the book "The Daily Stoic" by Ryan Holiday and Stephen Hanselman, where I take a quote from the book and reflect on it, every day.
 
-1. July 1, 2020 - [My Stoic Musings 001 - Some words about control](https://medium.com/@jyash/my-stoic-musings-001-some-words-about-control-c7b48e45017e)
+- July 1, 2020 - [My Stoic Musings 001 - Some words about control](https://medium.com/@jyash/my-stoic-musings-001-some-words-about-control-c7b48e45017e)
+- July 2, 2020 - [My Stoic Musings 002 - Education will set us free](https://medium.com/@jyash/my-stoic-musings-002-education-will-set-us-free-2f8207c8b2eb)
