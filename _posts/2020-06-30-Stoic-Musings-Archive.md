@@ -19,3 +19,4 @@ This is the archive for my Stoic Musings challenge, inspired by the book "The Da
 - July 1, 2020 - [My Stoic Musings 001 - Some words about control](https://medium.com/@jyash/my-stoic-musings-001-some-words-about-control-c7b48e45017e)
 - July 2, 2020 - [My Stoic Musings 002 - Education will set us free](https://medium.com/@jyash/my-stoic-musings-002-education-will-set-us-free-2f8207c8b2eb)
 - July 3, 2020 - [My Stoic Musings 003 - Ephemeral Time](https://medium.com/@jyash/my-stoic-musings-003-ephemeral-time-290f64d26141)
+- July 4, 2020 - [My stoic Musings 004 - The 3 Tenets of Stoicism](https://medium.com/@jyash/the-3-tenets-of-stoicism-my-stoic-musings-004-e28a8cd07a0b)
