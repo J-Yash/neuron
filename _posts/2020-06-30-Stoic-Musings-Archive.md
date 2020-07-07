@@ -21,3 +21,4 @@ This is the archive for my Stoic Musings challenge, inspired by the book "The Da
 - July 3, 2020 - [My Stoic Musings 003 - Ephemeral Time](https://medium.com/@jyash/my-stoic-musings-003-ephemeral-time-290f64d26141)
 - July 4, 2020 - [My Stoic Musings 004 - The 3 Tenets of Stoicism](https://medium.com/@jyash/the-3-tenets-of-stoicism-my-stoic-musings-004-e28a8cd07a0b)
 - July 5, 2020 - [My Stoic Musings 005 - Saving Ourselves from the Mirage](https://medium.com/@jyash/saving-ourselves-from-the-mirage-my-stoic-musings-005-279d30f928c9)
+- July 6, 2020 - [My Stoic Musings 006 - Start With Why](https://medium.com/@jyash/start-with-why-my-stoic-musings-006-1d69ec45efbf)
