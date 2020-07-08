@@ -14,7 +14,7 @@ title: Stoic Musings Archive
 ---
 ![]({{ site.baseurl }}/images/stoic-musings-archive.jpg "Image Credit: Dariusz Sankowski from Unsplash")
 
-This is the archive for my Stoic Musings challenge, inspired by the book "The Daily Stoic" by Ryan Holiday and Stephen Hanselman, where I take a quote from the book and reflect on it, every day.
+This is the archive for my Stoic Musings challenge, inspired by the book "The Daily Stoic" by Ryan Holiday and Stephen Hanselman, where I take a quote from the book and reflect on it, every day for 366 days.
 
 - July 1, 2020 - [My Stoic Musings 001 - Some words about control](https://medium.com/@jyash/my-stoic-musings-001-some-words-about-control-c7b48e45017e)
 - July 2, 2020 - [My Stoic Musings 002 - Education will set us free](https://medium.com/@jyash/my-stoic-musings-002-education-will-set-us-free-2f8207c8b2eb)
@@ -22,3 +22,4 @@ This is the archive for my Stoic Musings challenge, inspired by the book "The Da
 - July 4, 2020 - [My Stoic Musings 004 - The 3 Tenets of Stoicism](https://medium.com/@jyash/the-3-tenets-of-stoicism-my-stoic-musings-004-e28a8cd07a0b)
 - July 5, 2020 - [My Stoic Musings 005 - Saving Ourselves from the Mirage](https://medium.com/@jyash/saving-ourselves-from-the-mirage-my-stoic-musings-005-279d30f928c9)
 - July 6, 2020 - [My Stoic Musings 006 - Start With Why](https://medium.com/@jyash/start-with-why-my-stoic-musings-006-1d69ec45efbf)
+- July 7, 2020 - [My Stoic Musings 007 - 7 Things for a Stoic Mind](https://medium.com/@jyash/7-things-for-a-stoic-mind-my-stoic-musings-007-bdeb990f22b2)
