@@ -26,3 +26,4 @@ This is the archive for my Stoic Musings challenge, inspired by the book "The Da
 - July 8, 2020 - [My Stoic Musings 008 - What Seneca Had To Say About Addictions In Everyday Life](https://medium.com/@jyash/what-seneca-had-to-say-about-addictions-in-everyday-life-my-stoic-musings-008-17ca93f29b94)
 - July 9, 2020 - [My Stoic Musings 009 - What Really Sets Us Free](https://medium.com/@jyash/what-really-sets-us-free-my-stoic-musings-009-a3274aa9fe36)
 - July 10, 2020 - [My Stoic Musings 010 - On Choices, Reason, Good, and Evil](https://medium.com/@jyash/on-choices-reason-good-and-evil-my-stoic-musings-010-22161fc25139)
+- July 11, 2020 - [My Stoic Musings 011 - The Way To Avoid Obstacles Is To Not Focus On Avoiding Them](https://medium.com/@jyash/the-way-to-avoid-obstacles-is-to-not-focus-on-avoiding-them-my-stoic-musings-011-93c43dde8e0c)
