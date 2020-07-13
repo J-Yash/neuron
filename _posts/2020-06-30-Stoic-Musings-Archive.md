@@ -27,3 +27,4 @@ This is the archive for my Stoic Musings challenge, inspired by the book "The Da
 - July 9, 2020 - [My Stoic Musings 009 - What Really Sets Us Free](https://medium.com/@jyash/what-really-sets-us-free-my-stoic-musings-009-a3274aa9fe36)
 - July 10, 2020 - [My Stoic Musings 010 - On Choices, Reason, Good, and Evil](https://medium.com/@jyash/on-choices-reason-good-and-evil-my-stoic-musings-010-22161fc25139)
 - July 11, 2020 - [My Stoic Musings 011 - The Way To Avoid Obstacles Is To Not Focus On Avoiding Them](https://medium.com/@jyash/the-way-to-avoid-obstacles-is-to-not-focus-on-avoiding-them-my-stoic-musings-011-93c43dde8e0c)
+- July 12, 2020 - [My Stoic Musings 012 - Maybe Our Freedom To Choose Is The Real Happiness](https://medium.com/@jyash/maybe-our-freedom-to-choose-is-the-real-happiness-my-stoic-musings-012-219108a7df44)
