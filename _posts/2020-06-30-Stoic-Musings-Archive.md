@@ -30,3 +30,4 @@ This is the archive for my Stoic Musings challenge, inspired by the book "The Da
 - July 12, 2020 - [My Stoic Musings 012 - Maybe Our Freedom To Choose Is The Real Happiness](https://medium.com/@jyash/maybe-our-freedom-to-choose-is-the-real-happiness-my-stoic-musings-012-219108a7df44)
 - July 13, 2020 - [My Stoic Musings 013 - The Illusion We Have About What We Can Control](https://medium.com/@jyash/the-illusion-we-have-about-what-we-can-control-my-stoic-musings-013-a5e07cfd70b8)
 - July 14, 2020 - [My Stoic Musings 014 - What Thoughts Now Occupy My Mind](https://medium.com/@jyash/what-thoughts-now-occupy-my-mind-my-stoic-musings-01-4c2f82c166e7)
+- July 15, 2020 - [My Stoic Musings 015 - Clarity Is The Only Path To Peace](https://medium.com/@jyash/clarity-is-the-only-path-to-peace-my-stoic-musings-015-a347b92c87)
