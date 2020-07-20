@@ -34,3 +34,4 @@ This is the archive for my Stoic Musings challenge, inspired by the book "The Da
 - July 16, 2020 - [My Stoic Musings 016 - Our Habits May Be What's Holding Us Back](https://medium.com/@jyash/our-habits-may-be-whats-holding-us-back-my-stoic-musings-016-70a7c0792ea5)
 - July 17, 2020 - [My Stoic Musings 017 - If Epictetus Was Our Teacher, He'd Say This](https://medium.com/@jyash/if-epictetus-was-our-teacher-hed-say-this-my-stoic-musings-017-3c3c3444326)
 - July 18, 2020 - [My Stoic Musings 018 - Live Right So You Can Die Right](https://medium.com/@jyash/live-right-so-you-can-die-right-my-stoic-musings-018-a3b357365262)
+- July 19, 2020 - [My Stoic Musings 019 - The Choice Is Yours](https://medium.com/@jyash/the-choice-is-yours-my-stoic-musings-019-9f28fac330e7)
