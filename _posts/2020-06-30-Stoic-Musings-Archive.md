@@ -36,3 +36,4 @@ This is the archive for my Stoic Musings challenge, inspired by the book "The Da
 - July 18, 2020 - [My Stoic Musings 018 - Live Right So You Can Die Right](https://medium.com/@jyash/live-right-so-you-can-die-right-my-stoic-musings-018-a3b357365262)
 - July 19, 2020 - [My Stoic Musings 019 - The Choice Is Yours](https://medium.com/@jyash/the-choice-is-yours-my-stoic-musings-019-9f28fac330e7)
 - July 20, 2020 - [My Stoic Musings 020 - Start With Why](https://medium.com/@jyash/start-with-why-my-stoic-musings-020-2c1a6664ab6c)
+- July 21, 2020 - [My Stoic Musings 021 - Meditate On Your Actions](https://medium.com/@jyash/meditate-my-stoic-musings-021-37ec3f8f1ed1)
