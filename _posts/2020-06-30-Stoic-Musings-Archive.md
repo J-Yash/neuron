@@ -38,3 +38,4 @@ This is the archive for my Stoic Musings challenge, inspired by the book "The Da
 - July 20, 2020 - [My Stoic Musings 020 - Start With Why](https://medium.com/@jyash/start-with-why-my-stoic-musings-020-2c1a6664ab6c)
 - July 21, 2020 - [My Stoic Musings 021 - Meditate On Your Actions](https://medium.com/@jyash/meditate-my-stoic-musings-021-37ec3f8f1ed1)
 - July 22, 2020 - [My Stoic Musings 022 - Don't Let History Repeat Itself](https://medium.com/@jyash/dont-let-history-repeat-itself-my-stoic-musings-022-6acd00594054)
+- July 23, 2020 - [My Stoic Musings 023 - What's So Different About The Rich](https://medium.com/@jyash/whats-so-different-about-the-rich-my-stoic-musings-023-ea6ae307a98c)
