@@ -41,3 +41,4 @@ This is the archive for my Stoic Musings challenge, inspired by the book "The Da
 - July 23, 2020 - [My Stoic Musings 023 - What's So Different About The Rich](https://medium.com/@jyash/whats-so-different-about-the-rich-my-stoic-musings-023-ea6ae307a98c)
 - July 24, 2020 - [My Stoic Musings 024 - Why We Must Scribble In Our Books](https://medium.com/@jyash/why-we-must-scribble-in-our-books-my-stoic-musings-024-17e55bf8a8a9)
 - July 25, 2020 - [My Stoic Musings 025 - Life Is About Dancing...While The Music Is Playing](https://medium.com/@jyash/life-is-about-dancing-while-the-music-is-playing-my-stoic-musings-025-62176b8f98a0)
+- July 26, 2020 - [My Stoic Musings 026 - Too Many Distractions](https://medium.com/@jyash/too-my-stoic-musings-026-6d0debea401b)
