@@ -43,3 +43,4 @@ This is the archive for my Stoic Musings challenge, inspired by the book "The Da
 - July 25, 2020 - [My Stoic Musings 025 - Life Is About Dancing...While The Music Is Playing](https://medium.com/@jyash/life-is-about-dancing-while-the-music-is-playing-my-stoic-musings-025-62176b8f98a0)
 - July 26, 2020 - [My Stoic Musings 026 - Too Many Distractions](https://medium.com/@jyash/too-my-stoic-musings-026-6d0debea401b)
 - July 27, 2020 - [My Stoic Musings 027 - Epictetus's 3 Areas Of Training](https://medium.com/@jyash/epictetuss-3-areas-of-training-my-stoic-musings-027-588e620b3a15)
+- July 28, 2020 - [My Stoic Musings 028 - Michael Jordan's Ruling Principle](https://medium.com/@jyash/michael-jordans-ruling-principle-my-stoic-musings-028-3fce856376b7)
