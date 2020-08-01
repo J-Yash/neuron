@@ -46,3 +46,4 @@ This is the archive for my Stoic Musings challenge, inspired by the book "The Da
 - July 28, 2020 - [My Stoic Musings 028 - Michael Jordan's Ruling Principle](https://medium.com/@jyash/michael-jordans-ruling-principle-my-stoic-musings-028-3fce856376b7)
 - July 29, 2020 - [My Stoic Musings 029 - Just Do It](https://medium.com/@jyash/just-do-it-my-stoic-musings-029-86861d82b7e)
 - July 30, 2020 - [My Stoic Musings 030 - It Is Better To Be Watson Instead Of Sherlock](https://medium.com/@jyash/my-stoic-musings-030-9693b2a060ee)
+- July 31, 2020 - [My Stoic Musings 031 - What Is The Point Of Philosophy?](https://medium.com/@jyash/what-is-the-point-of-philosophy-my-stoic-musings-031-935ca3a9d665)
