@@ -48,4 +48,5 @@ This is the archive for my Stoic Musings challenge, inspired by the book "The Da
 - July 30, 2020 - [My Stoic Musings 030 - It Is Better To Be Watson Instead Of Sherlock](https://medium.com/@jyash/my-stoic-musings-030-9693b2a060ee)
 - July 31, 2020 - [My Stoic Musings 031 - What Is The Point Of Philosophy?](https://medium.com/@jyash/what-is-the-point-of-philosophy-my-stoic-musings-031-935ca3a9d665)
 
--August 1, 2020 - [My Stoic Musings 032 - Character Is Greater Than The Costume](https://medium.com/@jyash/character-is-greater-than-the-costume-my-stoic-musings-032-369e55de9053)
+- August 1, 2020 - [My Stoic Musings 032 - Character Is Greater Than The Costume](https://medium.com/@jyash/character-is-greater-than-the-costume-my-stoic-musings-032-369e55de9053)
+- August 2, 2020 - [My Stoic Musings 033 - Pick Your Sport Before You Start Training](https://medium.com/@jyash/pick-your-sport-before-you-start-training-my-stoic-musings-033-58f7eb8f5759)
