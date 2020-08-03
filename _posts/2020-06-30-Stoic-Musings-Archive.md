@@ -50,3 +50,4 @@ This is the archive for my Stoic Musings challenge, inspired by the book "The Da
 
 - August 1, 2020 - [My Stoic Musings 032 - Character Is Greater Than The Costume](https://medium.com/@jyash/character-is-greater-than-the-costume-my-stoic-musings-032-369e55de9053)
 - August 2, 2020 - [My Stoic Musings 033 - Pick Your Sport Before You Start Training](https://medium.com/@jyash/pick-your-sport-before-you-start-training-my-stoic-musings-033-58f7eb8f5759)
+- August 3, 2020 - [My Stoic Musings 034 - Deeds, Not Words](https://medium.com/@jyash/deeds-not-words-my-stoic-musings-034-5d4bddf39682)
