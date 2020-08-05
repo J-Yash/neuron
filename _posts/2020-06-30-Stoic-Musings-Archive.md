@@ -15,6 +15,7 @@ title: Stoic Musings Archive
 ![]({{ site.baseurl }}/images/stoic-musings-archive.jpg "Image Credit: Dariusz Sankowski from Unsplash")
 
 This is the archive for my Stoic Musings challenge, inspired by the book "The Daily Stoic" by Ryan Holiday and Stephen Hanselman, where I take a quote from the book and reflect on it, every day for 366 days.
+
 **Update:** I ended this challenge after 34 days. After 34 days of writing every day, I realized that it had become a chore rather than something that truly challenged me. So, I decided to change direction. Instead of writing one short, low quality article every day, I will be writing one long higher quality article on a weekly basis. I feel that would be a more positive addition to my life as it will allow me to push myself and become better at writing and explore more subjects.
 
 - July 1, 2020 - [My Stoic Musings 001 - Some words about control](https://medium.com/@jyash/my-stoic-musings-001-some-words-about-control-c7b48e45017e)
